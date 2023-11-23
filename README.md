@@ -1,2 +1,2 @@
 # Pirmas-Darbas
-Pirmasis GitHub Darbas, susipažinimui.
+Pirmasis GitHub Darbas, susipažinimui yo.
